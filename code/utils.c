@@ -1,5 +1,6 @@
 /*
 	Utilities implementation referenced from Assignment1 solutions
+	by Grady Fitzpatrick
 */
 
 #include <stdio.h>
